@@ -7,7 +7,7 @@ published: false
 ---
 ## はじめに
 tRPC(Version: 10.x)のドキュメントを日本語化していきます。
-https://trpc.io/docs
+https://trpc.io/
 :::details 動機
 - 記事書いてみたい
 - アウトプットすることで勉強したことを定着させたい
